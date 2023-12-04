@@ -1,0 +1,4 @@
+{
+    "bucket": "s3basics",
+    "files": "../data/"
+}
