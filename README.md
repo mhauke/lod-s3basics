@@ -15,7 +15,7 @@ cd lod-s3basics/python
 ./01_list_buckets.py
 ```
 
-## Usage - Go
+### Usage - Go
 For Go the code is organized in subdirectories for the different examples. To run an example, change to the directory for the example you want to run. 
 ```
 cd lod-s3basics/golang/01_list_buckets
