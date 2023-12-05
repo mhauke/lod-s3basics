@@ -7,7 +7,7 @@
 # Date:         2023-12-04
 # Description:  List all objects in a bucket
 #
-# Modules:      json, os, boto3	
+# SDK:          AWS Python SDK - boto3	
 #		
 # URLs:         https://docs.netapp.com/us-en/storagegrid-117/
 #               https://boto3.amazonaws.com/v1/documentation/api/latest/index.html			
